@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    border:0;
+}
+
+img{
+    width:70%;
+    height: 10%;
+    margin-left: 200px;
+    margin-bottom: 50px;
+    
+}
